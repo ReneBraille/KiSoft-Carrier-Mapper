@@ -2,7 +2,7 @@
 
 ## Cel skryptu
 
-KiSoft Carrier Mapper do rozszerzenie Tampermonkey integrujące dane z Grafany z systemem KiSoft. Jego zadaniem jest automatyczny pobieranie informacji o subwave, carrierach, OSR, UPO oraz statusach operacyjnych i prezentowanie ich bezpośrednio w interfejsie KiSoft.
+KiSoft Carrier Mapper to rozszerzenie "Tampermonkey" integrujące dane z Grafany do systemem KiSoft. Jego zadaniem jest automatyczny pobieranie informacji o subwave, carrierach, OSR, UPO oraz statusach operacyjnych i prezentowanie ich bezpośrednio w interfejsie KiSoft.
 
 ---
 
